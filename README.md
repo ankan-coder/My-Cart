@@ -1,0 +1,1 @@
+Introducing My Cart, a delightful e-commerce solution crafted with HTML, CSS, and JS, powered by Firebase. Seamlessly connected to Firebase Realtime Database. Experience it live: https://my-cart-ac.netlify.app/
